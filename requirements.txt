@@ -43,8 +43,8 @@ setuptools==80.9.0
 six==1.17.0
 stack-data==0.6.3
 sympy==1.14.0
-torch==2.7.1
-torchvision==0.22.1
+torch==2.7.1            # change for cuda compatible if required
+torchvision==0.22.1     # change for cuda compatible if required
 tornado==6.5.1
 tqdm==4.67.1
 traitlets==5.14.3
